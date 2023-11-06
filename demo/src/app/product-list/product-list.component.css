@@ -1,0 +1,25 @@
+button {
+  border-radius: 5px;
+  height: 30px;
+  width: 80px;
+  background-color: #17ad65;
+  color: white;
+  border-width: 2px;
+  margin-right: 30px;
+}
+a,
+a:visited,
+a:hover {
+  font-size: larger;
+  color: #157d4a;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #125699;
+}
+h1 {
+  margin-left: 20px;
+  color: #73b72a;
+  padding-top: 20px;
+}
